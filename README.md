@@ -1,2 +1,2 @@
 # fashionpal
-Our Major Project
+SPE Major Project
